@@ -1,5 +1,8 @@
-package com.example.web;
+package com.example.web.controler;
 
+import com.example.web.config.PubSubMessageBody;
+import com.example.web.dto.BodyDTO;
+import com.example.web.dto.PubSubMessageDTO;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;

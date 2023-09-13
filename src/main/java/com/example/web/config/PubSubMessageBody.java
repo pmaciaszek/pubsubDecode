@@ -1,4 +1,4 @@
-package com.example.web;
+package com.example.web.config;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

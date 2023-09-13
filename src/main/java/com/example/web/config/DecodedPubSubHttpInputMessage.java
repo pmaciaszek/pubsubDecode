@@ -1,4 +1,4 @@
-package com.example.web;
+package com.example.web.config;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpInputMessage;
